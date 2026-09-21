@@ -113,17 +113,17 @@ A magic tee is normally characterised by two quantities:
 
 3. **Experimental Scattering Matrix Representation ($[S]$):**
 
-         $$[S] = \begin{bmatrix}
-         0 & 0 & \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
-         0 & 0 & \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} \\
-         \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} & 0 & 0 \\
-         \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} & 0 & 0
-         \end{bmatrix} \approx \begin{bmatrix}
-         0.08 & 0.02 & 0.69 & 0.68 \\
-         0.02 & 0.09 & 0.70 & -0.69 \\
-         0.69 & 0.70 & 0.12 & 0.01 \\
-         0.68 & -0.69 & 0.01 & 0.14
-         \end{bmatrix}$$
+   $$\[S] = \begin{bmatrix}
+   0 & 0 & \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
+   0 & 0 & \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} \\
+   \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} & 0 & 0 \\
+   \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} & 0 & 0
+   \end{bmatrix} \approx \begin{bmatrix}
+   0.08 & 0.02 & 0.69 & 0.68 \\
+   0.02 & 0.09 & 0.70 & -0.69 \\
+   0.69 & 0.70 & 0.12 & 0.01 \\
+   0.68 & -0.69 & 0.01 & 0.14
+   \end{bmatrix}$$
 
 ---
 
