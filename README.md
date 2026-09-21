@@ -111,7 +111,8 @@ A magic tee is normally characterised by two quantities:
    * Fed at E-Arm:
      $$\Delta P_E = |P_{C1} - P_{C2}| = |-3.3\text{ dB} - (-3.2\text{ dB})| = \mathbf{0.1\text{ dB}}$$
 
-3. **Experimental Scattering Matrix Representation ($[S]$):**
+3. **Experimental Scattering Matrix Representation (`[S]`):**
+
 $$
 [S] =
 \begin{bmatrix}
@@ -128,8 +129,6 @@ $$
 0.707 & -0.707 & 0 & 0
 \end{bmatrix}
 $$
----
-
 ## Conclusion
 
 1. The transmission and isolation properties of the **Magic (Hybrid) Tee** were characterized at an operating frequency of **9.45 GHz**.
