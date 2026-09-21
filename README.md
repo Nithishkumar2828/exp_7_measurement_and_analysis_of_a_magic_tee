@@ -113,7 +113,8 @@ A magic tee is normally characterised by two quantities:
 
 3. **Experimental Scattering Matrix Representation ($[S]$):**
 
-   $$\[S] = \begin{bmatrix}
+   $$[S] =
+   \begin{bmatrix}
    0 & 0 & \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
    0 & 0 & \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} \\
    \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} & 0 & 0 \\
