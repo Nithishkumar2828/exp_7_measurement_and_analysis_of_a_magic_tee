@@ -112,21 +112,6 @@ A magic tee is normally characterised by two quantities:
      $$\Delta P_E = |P_{C1} - P_{C2}| = |-3.3\text{ dB} - (-3.2\text{ dB})| = \mathbf{0.1\text{ dB}}$$
 
 3. **Experimental Scattering Matrix Representation ($[S]$):**
-
-   $$[S] =
-   \begin{bmatrix}
-   0 & 0 & \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
-   0 & 0 & \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} \\
-   \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} & 0 & 0 \\
-   \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} & 0 & 0
-   \end{bmatrix}
-   \approx
-   \begin{bmatrix}
-   0.08 & 0.02 & 0.69 & 0.68 \\
-   0.02 & 0.09 & 0.70 & -0.69 \\
-   0.69 & 0.70 & 0.12 & 0.01 \\
-   0.68 & -0.69 & 0.01 & 0.14
-   \end{bmatrix}$$
 $$
 [S] =
 \begin{bmatrix}
